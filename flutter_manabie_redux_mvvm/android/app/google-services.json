@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402806267572",
+    "firebase_url": "https://manabie-test.firebaseio.com",
+    "project_id": "manabie-test",
+    "storage_bucket": "manabie-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402806267572:android:7680f92b7506fa50f741e1",
+        "android_client_info": {
+          "package_name": "flutter.manabie.reduxmvvm.flutter_manabie_redux_mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402806267572-ukpgefq842bk65v8kihulqbh4i3gonut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "flutter.manabie.reduxmvvm.flutter_manabie_redux_mvvm",
+            "certificate_hash": "d03df184bc257ccdf2084f81ce6867c77598a559"
+          }
+        },
+        {
+          "client_id": "402806267572-9e22uncsshe7hn0buh6vk8h9ijta0j5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTGBdS4LfmI5jPrRZz_Qjkl524QCHXcgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402806267572-9e22uncsshe7hn0buh6vk8h9ijta0j5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
